@@ -1,6 +1,6 @@
 {
-    "name": "e_jobsheet",
-    "short_name": "e_jobsheet",
+    "name": "eJobsheet",
+    "short_name": "eJobsheet",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
